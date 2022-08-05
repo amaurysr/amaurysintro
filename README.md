@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+### My Name is Amaurys Rodriguez:
 
 - 🔭 I’m currently working on ... C Programming
 - 🌱 I’m currently learning ... Machine Learning and C Programming
