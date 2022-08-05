@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Email: arodriguez5534@gmail.com   Linkedin: https://www.linkedin.com/in/amaurys-rodriguez-94b93b185/
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I enjoy working out and meditation. 
--->
