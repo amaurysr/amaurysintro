@@ -5,7 +5,7 @@
 ### My Name is Amaurys Rodriguez:
 
 - 🔭 I’m currently working on ... C Programming
-- 🌱 I’m currently learning ... Machine Learning and C Programming
+- 🌱 I’m currently learning ... Data Science, Machine Learning and C Programming
 - 👯 I’m looking to collaborate on ...  Data Analytics and C Programming
 - 🤔 I’m looking for help with ...  C Programming
 - 💬 Ask me about ... Anything that is collaborating or anything interesting
