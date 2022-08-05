@@ -11,4 +11,4 @@
 - 💬 Ask me about ... Anything that is collaborating or anything interesting
 - 📫 How to reach me: ... Email: arodriguez5534@gmail.com   Linkedin: https://www.linkedin.com/in/amaurys-rodriguez-94b93b185/
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I enjoy working out and meditation. 
+- ⚡ Fun fact: ... I enjoy doing calisthenics and meditating every day. 
