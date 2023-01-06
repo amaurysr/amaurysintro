@@ -4,7 +4,7 @@
 
 ### My Name is Amaurys Rodriguez:
 
-- 🔭 I’m currently working on ... Learning new Languages
+- 🔭 I’m currently working on ... Learning new Languages, and brainstorming projects
 - 🌱 I’m currently learning ... Mostly C and Go Lang, also trying out Linux
 - 👯 I’m looking to collaborate on ...  Any project that might interest me
 - 🤔 I’m looking for help with ...  Anything that I ask for, which could be rampant when I code everyday
